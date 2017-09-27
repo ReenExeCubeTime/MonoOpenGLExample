@@ -2,10 +2,11 @@
 
 namespace Example
 {
-	public class FirstClass
+	public class ReenWindow
 	{
-		public FirstClass()
+		public ReenWindow()
 		{
+
 		}
 	}
 }

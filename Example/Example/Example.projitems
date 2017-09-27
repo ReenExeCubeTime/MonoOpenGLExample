@@ -9,6 +9,7 @@
     <Import_RootNamespace>Example</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)FirstClass.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ReenApplication.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ReenWindow.cs" />
   </ItemGroup>
 </Project>
